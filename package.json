@@ -1,0 +1,15 @@
+{
+  "name": "iotmath",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node math.js",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "decimal.js": "^10.3.1"
+  }
+}
